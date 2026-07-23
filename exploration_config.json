@@ -1,17 +1,5 @@
+0
 {
-  "_comment": "Craft Exploration Master Miner (com.mastercraft.mine_crafting_freehw) - AppGallery C102623033. KILL SWITCH: the app only reads the FIRST byte of this file. First char '0' = ads OFF, anything else = ads ON. Ad IDs below are documentation only, they are baked into the APK.",
-  "ads_enabled": true,
-  "admob_app_open_id": "",
-  "admob_interstitial_id": "",
-  "admob_rewarded_id": "",
-  "yandex_interstitial_id": "R-M-19635701-1",
-  "yandex_rewarded_id": "R-M-19635701-3",
-  "yandex_appopen_id": "R-M-19635701-2",
-  "startapp_app_id": "",
-  "cpa_enabled": false,
-  "cpa_offer_url": "",
-  "cpa_offer_title": "Special Offer",
-  "cpa_offer_button": "Get Now",
-  "cpa_show_on_launch": false,
-  "cpa_show_interval_minutes": 30
+  "_comment": "TEMP KILL-SWITCH TEST - first byte 0 = ads OFF",
+  "ads_enabled": false
 }
