@@ -1,17 +1,12 @@
 {
-  "_comment": "Craft Exploration (com.craftmine.rustore.freegame) - RuStore. KILL SWITCH: the app reads ONLY the first byte of this file. First char '0' = ads OFF, anything else (e.g. '{') = ads ON. To disable ads, put a line containing just 0 above this JSON. raw.githubusercontent.com caches ~5 min, so the switch is not instant. Ad IDs below are documentation only - they are baked into the APK dex.",
+  "_comment": "Крафтинг Игра (com.craftmine.rustore.freegame) - RuStore. Yandex app 19669503 (dedicated to this package). KILL SWITCH: masterblock engine reads ONLY the first byte; '0'=ads OFF, else ON. Ad IDs below are DOCUMENTATION — the real IDs are baked in the dex (classes2).",
   "ads_enabled": true,
   "admob_app_open_id": "",
   "admob_interstitial_id": "",
   "admob_rewarded_id": "",
-  "yandex_interstitial_id": "R-M-19635701-1",
-  "yandex_rewarded_id": "R-M-19635701-3",
-  "yandex_appopen_id": "R-M-19635701-2",
+  "yandex_interstitial_id": "R-M-19669503-1",
+  "yandex_rewarded_id": "R-M-19669503-2",
+  "yandex_appopen_id": "R-M-19669503-3",
   "startapp_app_id": "",
-  "cpa_enabled": false,
-  "cpa_offer_url": "",
-  "cpa_offer_title": "Special Offer",
-  "cpa_offer_button": "Get Now",
-  "cpa_show_on_launch": false,
-  "cpa_show_interval_minutes": 30
+  "cpa_enabled": false
 }
