@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "ads_enabled": true,
+  "formats": {
+    "banner": true,
+    "interstitial": true,
+    "rewarded": true,
+    "app_open": true,
+    "native": true
+  },
+  "ad_units": {
+    "banner": "ca-app-pub-3940256099942544/9214589741",
+    "interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "rewarded": "ca-app-pub-3940256099942544/5224354917",
+    "app_open": "ca-app-pub-3940256099942544/9257395921",
+    "native": "ca-app-pub-3940256099942544/2247696110"
+  }
+}
