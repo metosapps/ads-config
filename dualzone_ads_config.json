@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "ads_enabled": true,
+  "ads_enabled": false,
   "formats": {
     "banner": true,
     "interstitial": true,
