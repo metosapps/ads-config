@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "ads_enabled": false,
   "formats": {
     "banner": false,
@@ -9,10 +9,10 @@
     "native": false
   },
   "ad_units": {
-    "banner": "",
-    "interstitial": "",
-    "rewarded": "",
-    "app_open": "",
+    "banner": "ca-app-pub-3289974964220873/1936037736",
+    "interstitial": "ca-app-pub-3289974964220873/9622956067",
+    "rewarded": "ca-app-pub-3289974964220873/4857539539",
+    "app_open": "ca-app-pub-3289974964220873/3448254947",
     "native": ""
   }
 }
