@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "ads_enabled": false,
   "formats": {
     "banner": false,
@@ -13,6 +13,6 @@
     "interstitial": "ca-app-pub-3289974964220873/9622956067",
     "rewarded": "ca-app-pub-3289974964220873/4857539539",
     "app_open": "ca-app-pub-3289974964220873/3448254947",
-    "native": ""
+    "native": "ca-app-pub-3289974964220873/5659571036"
   }
 }
